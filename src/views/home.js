@@ -13,7 +13,7 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>adamcyberspaceprf</title>
+        <title>adamcyberspace</title>
         <meta property="og:title" content="adamcyberspaceprf" />
       </Helmet>
       <header data-role="Header" className="home-header">
@@ -72,7 +72,7 @@ const Home = (props) => {
           <h1 className="home-text">Magnificent things are very simple</h1>
           <span className="home-text01">
             <span>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non
+              Welcome ipsum dolor sit amet, consectetur adipiscing elit. Sed non
               volutpat turpis.
               <span
                 dangerouslySetInnerHTML={{
