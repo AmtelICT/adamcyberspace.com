@@ -6,7 +6,7 @@
   align-items: center;
   flex-direction: column;
   background-size: cover;
-  background-image: url("/playground_assets/best-background-for-website-02-1500w.jpg");
+  background-image: url(".../public/playground_assets/best-background-for-website-02-1500w.jpg");
 }
 .home-header {
   width: 100%;

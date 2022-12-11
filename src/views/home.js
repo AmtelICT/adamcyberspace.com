@@ -72,8 +72,7 @@ const Home = (props) => {
           <h1 className="home-text">Magnificent things are very simple</h1>
           <span className="home-text01">
             <span>
-              Welcome ipsum dolor sit amet, consectetur adipiscing elit. Sed non
-              volutpat turpis.
+              Welcome to adam's cyber work space, You never get into better hands guaranteed.
               <span
                 dangerouslySetInnerHTML={{
                   __html: ' ',
